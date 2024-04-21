@@ -34,7 +34,7 @@
 .cards-outer-container {
     display: flex;
     flex-wrap: wrap;
-    /* gap: 1rm; */
+
     margin-top: 15x;
     display: flex;
     flex-direction: column;
