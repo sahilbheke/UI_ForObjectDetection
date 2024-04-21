@@ -8,7 +8,7 @@ import './Card.css'
 // }
 function Card() {
     return (
-        <div className='cards'>
+        <div className='cards-outer-container'>
             <div className='card-container'>
                 <img src={tree} alt="Card Image" className='card-img'/>
                 <h1 className='card-title'>Tree Detection</h1>
