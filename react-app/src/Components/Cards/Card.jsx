@@ -1,5 +1,7 @@
 import React from 'react'
 import tree from '../../assets/tree.avif'
+import building from '../../assets/building.avif'
+
 import './Card.css'
 // export const Card = () => {
 //     return (
@@ -19,8 +21,8 @@ function Card() {
             </div>
 
             <div className='card-container'>
-                <img src={tree} alt="Card Image" className='card-img'/>
-                <h1 className='card-title'>Card Title</h1>
+                <img src={building} alt="Card Image" className='card-img'/>
+                <h1 className='card-title'>Building Detection</h1>
                 <p className='card-discription'>
                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis quo, ut expedita soluta excepturi saepe aspernatur quidem reiciendis dicta, ad, totam velit cumque quod aliquam iure ducimus deserunt sint? Sapiente.
                 </p>
