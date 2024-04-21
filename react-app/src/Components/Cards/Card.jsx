@@ -18,14 +18,14 @@ function Card() {
                 <a href='tree_detection' className='card-btn'>Detect Now</a>
             </div>
 
-            {/* <div className='card-container'>
+            <div className='card-container'>
                 <img src={tree} alt="Card Image" className='card-img'/>
                 <h1 className='card-title'>Card Title</h1>
                 <p className='card-discription'>
                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis quo, ut expedita soluta excepturi saepe aspernatur quidem reiciendis dicta, ad, totam velit cumque quod aliquam iure ducimus deserunt sint? Sapiente.
                 </p>
                 <a href='tree_detection' className='card-btn'>Learn More</a>
-            </div> */}
+            </div>
             
 
         </div>
